@@ -54,16 +54,17 @@ h1 {
     }
 }
 
-hr {
-    width: 40%;
-}
-
 #text {
     text-align: justify;
 }
 
-#em {
+#center,
+#img-caption {
     text-align: center;
+}
+
+hr {
+    width: 40%;
 }
 
 @media(max-width:900px) {
