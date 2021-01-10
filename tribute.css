@@ -86,9 +86,10 @@ hr {
     padding: 2%;
 }
 
-#tribute-info {
+#footer {
     display: inline-block;
     border: 3px solid rgb(0, 54, 231);
+    padding: 2%;
 }
 
 p {
